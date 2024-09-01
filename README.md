@@ -1,1 +1,1 @@
-# EPOCH_Beginner
+# 🌱 EPOCH Beginner Session
