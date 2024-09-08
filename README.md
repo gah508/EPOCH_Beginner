@@ -16,7 +16,7 @@
 
 ### 코드 제출 방식
 
-**1️⃣ 교재 실습 과제**
+**1️⃣ 교재 실습**
 
 - **Pandas Chapter 제출 경로**: `EPOCH_Beginner/PandasN/이름_practice.ipynb`
 
@@ -26,7 +26,7 @@
  
     - 교재 챕터별로 나눠서 진행한 경우, `priactice` 뒤에 `순번` 매겨서 업로드
 
-**2️⃣ 복습 문제 과제**
+**2️⃣ 복습 문제**
 
 - **제출 경로**: `EPOCH_Beginner/Review/이름_WeekN_problem.ipynb`
     
