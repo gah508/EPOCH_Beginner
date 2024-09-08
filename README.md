@@ -18,15 +18,15 @@
 
 **1️⃣ 교재 실습 과제**
 
-- **Pandas Chapter 제출 경로**: `EPOCH_Beginner/이름/PandasN_practice.ipynb`
+- **Pandas Chapter 제출 경로**: `EPOCH_Beginner/PandasN/이름_practice.ipynb`
 
-- **Matplotlib Chapter 제출 경로**: `EPOCH_Beginner/이름/MatplolibN_practice.ipynb`
+- **Matplotlib Chapter 제출 경로**: `EPOCH_Beginner/MatplotlibN/이름_practice.ipynb`
 
     - 이름은 자유롭게 입력
 
 **2️⃣ 복습 문제 과제**
 
-- **제출 경로**: `EPOCH_Beginner/이름/WeekN_problem.ipynb`
+- **제출 경로**: `EPOCH_Beginner/Review/이름_WeekN_problem.ipynb`
     
     - 이름은 자유롭게 입력
 
