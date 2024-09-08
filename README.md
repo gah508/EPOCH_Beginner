@@ -12,21 +12,55 @@
 
 **본 스터디의 Notion Page는 아래 링크를 통해 제공하고 있습니다.**
 
-[🔗 Beginner Session Notion Page 바로가기](https://tartan-text-a3d.notion.site/Beginner-Session-bdd02390f6cb4bad914902a6eb4522ca?pvs=4)
+- [🔗 Beginner Session Notion Page 바로가기](https://tartan-text-a3d.notion.site/Beginner-Session-bdd02390f6cb4bad914902a6eb4522ca?pvs=4)
 
 ### 코드 제출 방식
 
-> 1️⃣**교재 실습 과제**
+**1️⃣ 교재 실습 과제**
 
 - **Pandas Chapter 제출 경로**: `EPOCH_Beginner/이름/PandasN_practice.ipynb`
+
 - **Matplotlib Chapter 제출 경로**: `EPOCH_Beginner/이름/MatplolibN_practice.ipynb`
+
     - 이름은 자유롭게 입력
 
-> 2️⃣**복습 문제**
+**2️⃣ 복습 문제 과제**
 
 - **제출 경로**: `EPOCH_Beginner/이름/WeekN_problem.ipynb`
+    
     - 이름은 자유롭게 입력
 
 ### 제출 기한
 
-> **매주 일요일 자정**
+`매주 일요일 자정`
+
+- ⏰: `~ 세션 당일 02:00:00`
+- ❌: `세션 당일 02:00:01 ~`
+
+---
+
+## ✅ 멤버별 문제 풀이 현황
+<details>
+  <summary> 🌈 제출 상태 요약</summary>
+  <div markdown="1">
+  
+  ---
+
+- **제출 완료**: ✅
+- **지각 제출**: ⏰
+- **미제출**: ❌
+- [💸 Penalty 현황 확인하기](https://www.notion.so/Beginner-Session-bdd02390f6cb4bad914902a6eb4522ca?pvs=4#1b30d39d20c04eaeafffd4f1f768d6a8)
+  
+  </div>
+  </details>
+
+---
+
+| Week/Member | Week 1 | Week 2 - 실습 | Week 2 - 복습 | Week 3 - 실습 | Week 3 - 복습 | Week 4 - 실습 | Week 4 - 복습 | Week 5 - 실습 | 
+|:---------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+| **김동민**    |   ✅  |     |     |     |     |     |     |     |       
+| **이지윤**    |   ✅  |     |     |     |     |     |     |     |      
+| **정다희**    |   ✅  |     |     |     |     |     |     |     |
+| **조윤빈**      |   ✅  |     |     |     |     |     |     |     |
+
+---
